@@ -84,8 +84,9 @@ If you are looking for a software engineer who is passionate about using technol
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ryangehris&&style=flat-square)  
-  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ryangehris&&style=flat-square" align="center" />
+</div> 
 
 <br/>  
 
