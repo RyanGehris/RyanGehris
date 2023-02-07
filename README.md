@@ -32,7 +32,7 @@ If you are looking for a software engineer who is passionate about using technol
 - ⚡ Fun fact: I have visited every National Park in California with my family, and many more outside of CA.  
   
 
-- 💚 I am a huge supporter of Kesem, a nonprofit organization centered around supporting children whose parents have or have had cancer  
+- 💚 I am a huge supporter of [Kesem](https://www.kesem.org/) Kesem>, a nonprofit organization centered around supporting children whose parents have or have had cancer  
   
 
 <br/>  
