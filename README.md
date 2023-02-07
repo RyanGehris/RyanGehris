@@ -27,7 +27,10 @@ If you are looking for a software engineer who is passionate about using technol
   
 
 - 😀 You can find me at UCLA sporting events, concerts, skiing/surfing, or relaxing at the park  
-  
+
+
+- 📍 Happily residing in Southern California 
+
 
 - ⚡ Fun fact: I have visited every National Park in California with my family, and many more outside of CA.  
   
