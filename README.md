@@ -23,7 +23,7 @@ If you are looking for a software engineer who is passionate about using technol
 
 
 ## Rapidfire  
-- 🌱 I’m currently taking a deep dive in HTML, CSS, JavaScript, and React   
+- 🌱 I’m currently learning Typescript and Angular   
   
 
 - 😀 You can find me at UCLA sporting events, concerts, skiing/surfing, or relaxing at the park  
