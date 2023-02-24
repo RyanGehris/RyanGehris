@@ -36,6 +36,9 @@ If you are looking for a software engineer who is passionate about using technol
   
 
 - 💚 I am a huge supporter of [Kesem](https://www.kesem.org/), a nonprofit organization centered around supporting children whose parents have or have had cancer  
+
+
+- 🏥 Before pursuing software engineering, I worked as a Medical Assistant for an Orthopedics clinic 💪 and an interfacility transport EMT 🚑 
   
 
 <br/>  
