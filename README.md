@@ -70,6 +70,15 @@ If you are looking for a software engineer who is passionate about using technol
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
+<br/>   -->
+
+## Projects  
+- [Vegetation Station](https://github.com/GryphonSolutions/Vegetation-Station) (Fullstack)  
+  
+- [Elevated](https://github.com/atelier-front-end/elevated) (Frontend)  
+  
+- [Elevated API](https://github.com/RFP2210-SDC/API-Products) (Backend)  
+
 <br/>  
 
 
