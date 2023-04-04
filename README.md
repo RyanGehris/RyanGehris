@@ -23,7 +23,7 @@ If you are looking for a software engineer who is passionate about using technol
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning Typescript and Testing   
+- 🌱 I’m currently learning end-to-end testing using JavaScript Playwright   
   
 
 - 😀 You can find me at UCLA sporting events, concerts, skiing/surfing, or relaxing at the park  
